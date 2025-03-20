@@ -348,16 +348,6 @@ export default function VanEditor() {
   return (
     <div className="flex flex-col items-center p-4 md:p-6 mx-auto bg-gradient-to-b from-slate-50 to-slate-100 min-h-screen">
       <div className="w-full">
-        <div className="text-center mb-8">
-          <h1 className="text-3xl md:text-4xl font-bold mb-2 text-slate-800">
-            <!--Van Customization Studio-->
-          </h1>
-          <p className="text-slate-600 max-w-2xl mx-auto">
-            Design your dream van with our interactive customization tool. Add
-            stickers, adjust colors, and create your perfect adventure vehicle.
-          </p>
-        </div>
-
         <div className="flex flex-col gap-6">
           {/* Canvas area */}
           <div className="space-y-4 mx-auto">
