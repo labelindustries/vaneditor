@@ -350,11 +350,8 @@ export default function VanEditor() {
       <div className="w-full">
         <div className="text-center mb-8">
           <h1 className="text-3xl md:text-4xl font-bold mb-2 text-slate-800">
-            Van Customization Studio
           </h1>
           <p className="text-slate-600 max-w-2xl mx-auto">
-            Design your dream van with our interactive customization tool. Add
-            stickers, adjust colors, and create your perfect adventure vehicle.
           </p>
         </div>
 
