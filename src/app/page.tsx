@@ -43,6 +43,21 @@ const STICKERS = [
   "/stickers/sticker14.svg",
   "/stickers/sticker15.svg",
   "/stickers/sticker16.svg",
+  "/stickers/sticker2.svg",
+  "/stickers/sticker3.svg",
+  "/stickers/sticker4.svg",
+  "/stickers/sticker5.svg",
+  "/stickers/sticker6.svg",
+  "/stickers/sticker7.svg",
+  "/stickers/sticker8.svg",
+  "/stickers/sticker9.svg",
+  "/stickers/sticker10.svg",
+  "/stickers/sticker11.svg",
+  "/stickers/sticker12.svg",
+  "/stickers/sticker13.svg",
+  "/stickers/sticker14.svg",
+  "/stickers/sticker15.svg",
+  "/stickers/sticker16.svg",
 ];
 
 // Extend the Canvas type to include our custom property
