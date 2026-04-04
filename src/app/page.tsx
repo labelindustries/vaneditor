@@ -43,6 +43,21 @@ const STICKERS = [
   "/stickers/sticker14.svg",
   "/stickers/sticker15.svg",
   "/stickers/sticker16.svg",
+  "/stickers/sticker2.svg",
+  "/stickers/sticker3.svg",
+  "/stickers/sticker4.svg",
+  "/stickers/sticker5.svg",
+  "/stickers/sticker6.svg",
+  "/stickers/sticker7.svg",
+  "/stickers/sticker8.svg",
+  "/stickers/sticker9.svg",
+  "/stickers/sticker10.svg",
+  "/stickers/sticker11.svg",
+  "/stickers/sticker12.svg",
+  "/stickers/sticker13.svg",
+  "/stickers/sticker14.svg",
+  "/stickers/sticker15.svg",
+  "/stickers/sticker16.svg",
 ];
 
 // Extend the Canvas type to include our custom property
@@ -350,11 +365,8 @@ export default function VanEditor() {
       <div className="w-full">
         <div className="text-center mb-8">
           <h1 className="text-3xl md:text-4xl font-bold mb-2 text-slate-800">
-            <!--Van Customization Studio-->
           </h1>
           <p className="text-slate-600 max-w-2xl mx-auto">
-            Design your dream van with our interactive customization tool. Add
-            stickers, adjust colors, and create your perfect adventure vehicle.
           </p>
         </div>
 
